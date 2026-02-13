@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**a32-project/a32-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# A32-PROJECT
 
-Here are some ideas to get you started:
+a32-project made by a32 team
+a32-project runs on arm64, arm32 and 10% on x86
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+a32-project its made for users
+
+
+extras:
+
+a32 project web site: https://a32-project-web.blogspot.com/
+
+a32 project VPhoneGaGa gold a32: https://github.com/a32-project/VPhoneGaGa-gold-a32
