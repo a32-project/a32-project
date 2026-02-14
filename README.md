@@ -3,6 +3,7 @@
 # A32-PROJECT
 
 a32-project made by a32 team
+
 a32-project runs on arm64, arm32 and 10% on x86
 
 a32-project its made for users
